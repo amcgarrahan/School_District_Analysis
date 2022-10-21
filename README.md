@@ -23,7 +23,8 @@ Average Reading Score = 81.9
 % Passing Reading = 85.7
 % Overall Passing = 64.9
 ### How is the school summary affected?
-There was not a significant change to the overall school summary.
+The averages of math, passing scores and passing percentage of math and reading, overall passing increased when we considered 10th -12th Grades only from Thomas High school and replaced the 9th grade scores with NaNs.
+
 #### Before updated analysis: 
 ![image](https://user-images.githubusercontent.com/110629852/197110579-6b6b19fb-278f-4513-a9bc-23b84574947c.png)
 
@@ -72,7 +73,7 @@ Replacing the math and reading scores with NaNs didn’t change the school spend
  ![image](https://user-images.githubusercontent.com/110629852/197111013-1c9502df-1fef-446e-bdd2-47b6b97c6073.png)
 
 ### Scores by school size
-
+Replacing the math and reading scores with NaNs didn’t change the school size data, the table’s output stayed the same because there is still the same number of students. We are only replacing their scores, not removing them completely from the dataset.
 
 #### Before updated analysis:
 ![image](https://user-images.githubusercontent.com/110629852/197111048-4b4fae9b-ac3a-4e64-b92f-bb4e4860e2ed.png)
@@ -99,4 +100,4 @@ Replacing the math and reading scores with NaNs didn’t change the school spend
 
 ### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
 Four changes that occurred after the scores were updated for the new district analysis
-
+When the 9th grade student Math and Reading scores from Thomas High School were excluded from the District Summary, there was a slight adjustment to the Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing.

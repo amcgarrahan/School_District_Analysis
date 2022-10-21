@@ -42,8 +42,22 @@ After the math and reading scores of Thomas high school 9th graders were replace
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade
+### Math and reading scores by grade
 Replacing the math and reading scores for Thomas High School didn’t make a significant difference to math and reading scores by grade, since only 9th grade results were affected.
+
+#### Math scores by grade before updated analysis:
+![image](https://user-images.githubusercontent.com/110629852/197112610-72fb2bc1-7c70-4ca8-9a98-2523b21b1d24.png)
+
+#### Reading scores by grade before updated analysis:
+![image](https://user-images.githubusercontent.com/110629852/197112682-2409a393-40a9-4b59-ae64-a858f2773f31.png)
+
+
+
+
+#### Math scores by grade after updated analysis:
+#### Reading scores by grade after updated analysis:
+
+
 ### Scores by school spending:
 Replacing the math and reading scores with NaNs didn’t change the school spending range, the table’s output stayed the same because there is still the same number of students. We are only replacing their scores, not removing them completely from the dataset.
 
@@ -55,6 +69,7 @@ Replacing the math and reading scores with NaNs didn’t change the school spend
  ![image](https://user-images.githubusercontent.com/110629852/197111013-1c9502df-1fef-446e-bdd2-47b6b97c6073.png)
 
 ### Scores by school size
+
 
 #### Before updated analysis:
 ![image](https://user-images.githubusercontent.com/110629852/197111048-4b4fae9b-ac3a-4e64-b92f-bb4e4860e2ed.png)

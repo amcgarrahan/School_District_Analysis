@@ -49,13 +49,16 @@ Replacing the math and reading scores for Thomas High School didn’t make a sig
 ![image](https://user-images.githubusercontent.com/110629852/197112610-72fb2bc1-7c70-4ca8-9a98-2523b21b1d24.png)
 
 #### Reading scores by grade before updated analysis:
-![image](https://user-images.githubusercontent.com/110629852/197112682-2409a393-40a9-4b59-ae64-a858f2773f31.png)
-
+<img width="411" alt="Screenshot (31)" src="https://user-images.githubusercontent.com/110629852/197112945-51aa53bd-4243-4fac-8d67-709f239373a6.png">
 
 
 
 #### Math scores by grade after updated analysis:
+<img width="311" alt="Screenshot (32)" src="https://user-images.githubusercontent.com/110629852/197113217-f033719b-9acc-49e6-941d-d2e3baf61116.png">
+
+
 #### Reading scores by grade after updated analysis:
+<img width="324" alt="Screenshot (33)" src="https://user-images.githubusercontent.com/110629852/197113301-5e1e415a-e899-4026-aec1-65963bff9b59.png">
 
 
 ### Scores by school spending:

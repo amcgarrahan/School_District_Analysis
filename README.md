@@ -87,6 +87,7 @@ Replacing the math and reading scores with NaNs didn’t change the school size 
  
 
 ### Scores by school type:
+Replacing the math and reading scores with NaNs didn’t change the school type data, the table’s output stayed the same because there is still the same number of students in each type of school, school types were not affected by grades. We are only replacing the student scores, not removing them completely from the dataset.
 
 
 #### Before updated analysis:
